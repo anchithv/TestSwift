@@ -1,9 +1,0 @@
-__pycache__
-.vscode
-*.pyc
-TestGeneratorFramework
-Command_table
-Interlocking_data
-dictionary.*
-*.xml
-*.sh
